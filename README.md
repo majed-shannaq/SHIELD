@@ -24,3 +24,6 @@ AI-powered fraud detection for banking apps using behavioral biometrics and Risk
 
 ## Run
 Open `shield_model.ipynb` in Google Colab and run all cells in order.
+
+## Live Demo
+https://shield-i8xxckysonppg6dq42mnaa.streamlit.app/
